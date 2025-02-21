@@ -42,13 +42,13 @@ Ensure you have the following installed before running the script:
 ## Installation
 1. **Clone or Download the Repository**
    ```sh
-   git clone https://github.com/YourUsername/TTS-Asset-Localizer.git
+   git clone https://github.com/Ram-Rod6198/TTS-Asset-Localizer.git
    cd TTS-Asset-Localizer
    ```
 
 2. **Run the Script**
    ```sh
-   python localizer.py
+   python TTSCloudLocalizer.py
    ```
 
 ## Usage
